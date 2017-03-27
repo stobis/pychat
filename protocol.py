@@ -1,0 +1,19 @@
+"""
+USTAWIENIA KOMUNIKACJI
+"""
+
+HOST = 'localhost'
+PORT = 12359
+BUFSIZE = 1024
+
+SEPARATOR = "$$"
+
+STATUS_OK = "OK"
+STATUS_FAIL = "FAIL"     
+
+PING = "PING"     
+REGISTER_USER = "REGUSR"     
+SEND_MSG = "SENDMSG"     
+SHOW_USER = "SHOWUSR"     
+HIDE_USER = "HIDEUSR"     
+
